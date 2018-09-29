@@ -1,11 +1,7 @@
 # Clicky Game
-
 This app is a memory game built with React.js. The user's goal is to click on each card only one time until each card is clicked. There are 12 total cards that shuffle automatically on each click, making it more difficult for the user to remember which cards they have not clicked.  To add to the challenge, each card is an animated gif.
 
-## Live Site:
-https://thomson3914.github.io/clicky-game/
-
-## Demo
+## Screenshot
 ![Home.html](screenshot.gif)
 
 ## How it works
@@ -14,3 +10,6 @@ https://thomson3914.github.io/clicky-game/
 * If they have selected the card before, it will trigger an end game condition.
 * If they have not selected a card, it will increase the current score.
 * If the user reaches 12, the game restarts.
+
+## Check it Out
+https://thomson3914.github.io/clicky-game/
