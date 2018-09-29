@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+#header-container {
+  padding-top: 100px;
+  padding-bottom: 40px;
+  max-width: 100%;
+  background-color: black;
+}
+
+#counters {
+  color: white;
+}
+
+#card-container {
+  margin-top: 60px;
+}
+
+.card {
+  width: 200px;
+}
+
+#logo {
+  font-family: 'Eater';
+  color: aqua;
+}
+
+.subtitle, #counters {
+  font-family: 'Roboto', sans-serif;
+  color: beige;
+}
+
+.card {
+  border: 4px rgb(99, 99, 99) solid;
+  border-radius: 2px;
+  width: 240px;
+  height: 160px;
+  margin: 1rem;
+  position: relative;
+  box-shadow: 4px 4px 10px rgb(56, 56, 56);
+  transition: all .2s ease-in-out;
+}
+
+.card-img-top {
+  height: 100%;
+  overflow: hidden;
+  background:rgb(255, 255, 255);
+}
+
+.card:hover {
+  box-shadow: 8px 8px 20px rgb(56, 56, 56);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.card:active {
+  transform: translate(1px, 1px);
+}
