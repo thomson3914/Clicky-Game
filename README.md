@@ -6,7 +6,7 @@ This app is a memory game built with React.js. The user's goal is to click on ea
 https://thomson3914.github.io/clicky-game/
 
 ## Demo
-[![Image from Gyazo](https://i.gyazo.com/423f0402543b2efde069033586821872.gif)](https://gyazo.com/423f0402543b2efde069033586821872)
+[![Image from Gyazo](https://i.gyazo.com/1f177a394c4a43882bbcf736c1b86213.gif)](https://gyazo.com/1f177a394c4a43882bbcf736c1b86213)
 
 ## How it works
 * The user begins the game by clicking on card.
